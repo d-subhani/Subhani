@@ -1,0 +1,1 @@
+ touch images/sample_image.jpg
